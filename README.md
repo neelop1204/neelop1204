@@ -71,17 +71,6 @@
   <br><br>
 
 
-<a>
-    <a href="https://github.com/Kunjesh9867"><img alt="Kunjesh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kunjesh9867&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Kunjesh Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kunjesh9867&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-
-<!--
-![Kunjesh Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjesh9867&theme=radical&hide_border=true&custom_title=Kunjesh%20Ramani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
 
 <div align='center'>
 <img src="./icons/github-contribution-grid-snake-dark.svg" /></div>
